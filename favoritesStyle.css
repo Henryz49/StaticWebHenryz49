@@ -63,6 +63,12 @@ th{
     height: 350px;
     width: 350px;
 }
+.foodImage{
+    border-style: solid;
+    border-color: rgb(255, 136, 0);
+    height: 250px;
+    width:300px;
+}
 .tableText{
     padding: 20px;
     font-size: 35px;
